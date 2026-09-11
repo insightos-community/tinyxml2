@@ -1,0 +1,16 @@
+{
+  "project": "tinyxml2",
+  "version": "11.0.0",
+  "upstream": {
+    "repository": "https://github.com/leethomason/tinyxml2",
+    "tag": "11.0.0",
+    "commit": "9148bdf719e997d1f474be6bcc7943881046dba1"
+  },
+  "library": "libtinyxml2.so.11",
+  "build_dependencies": {},
+  "runtime_requirements": [
+    "musl x86_64",
+    "libstdc++.so.6",
+    "libgcc_s.so.1"
+  ]
+}

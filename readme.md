@@ -1,3 +1,5 @@
+InsightOS musl builds: see [ci/musl/README.md](ci/musl/README.md) for release artifacts and runtime requirements.
+
 TinyXML-2
 =========
 
